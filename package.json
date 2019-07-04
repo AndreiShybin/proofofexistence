@@ -78,7 +78,7 @@
     "request": "^2.85.0",
     "request-promise-native": "^1.0.5",
     "sprintf-js": "^1.1.1",
-    "snyk": "^1.161.1"
+    "snyk": "^1.189.0"
   },
   "devDependencies": {
     "babel-cli": "^6.26.0",
